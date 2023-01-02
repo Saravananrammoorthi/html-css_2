@@ -1,0 +1,36 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: lightcyan;
+}
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+h2{
+    color: black;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    color: blue;
+    font-size: x-large;
+}
+
+li{
+    color:gainsboro
+    ;background-color: black;
+    font-size: large;
+    
+} 
+
+p{
+    font-size: larger;
+}
+
+img {
+    height: 150px;
+    width: 150px;
+    
+} 
